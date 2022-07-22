@@ -1,4 +1,4 @@
-**Interdisciplinary artist** & **front-end software engineer** based in Barcelona. Currently, I'm really enjoying using **React.js** as my main framework to build front-ends, and I am learning Next.js and in-depth TDD with Enzyme. Working on art, ecology, artificial Intelligence & V/AR. I would really like to get to know new people within - and beyond - these fields to discuss, help, and create together!
+**Front-end developer** based in Barcelona. I’m currently working with **React.js** & **React Native** as my main frameworks to build web app front-ends, along with **Styled Components** & React Testing Library for **TDD**. I am also picking up some back-end skills with Java for a broader perspective.
 
 📋 Check out my [portfolio](https://devoriolserra.com)!<br>
 📫 You can contact me at <hello@devoriolserra.com>
